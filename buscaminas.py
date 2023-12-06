@@ -26,7 +26,8 @@ tiempoHabilitado=False
 tomarTiempoFin=0
 y=0
 
-contadorTiempo=Label(frame)
+contadorTiempo=Label(frame) Variables para diferentes niveles
+nivel = {
 contadorTiempo.grid(column=1, row=0, columnspan=4)
 
 def tiempo(tiempo1=""):
