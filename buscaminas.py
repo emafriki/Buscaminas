@@ -92,7 +92,7 @@ def bombasRandom():
 	bomba8=random.randrange(81)
 	bomba9=random.randrange(81)
 	bomba10=random.randrange(81)
-bombasRandom()
+	bombasRandom()
 
 print("Las ubicaciones de las bombas son: ", bomba1, bomba2, bomba3, bomba4, bomba5, bomba6, bomba7, bomba8, bomba9, bomba10)
 
